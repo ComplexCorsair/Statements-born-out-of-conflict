@@ -1,5 +1,5 @@
 # Statements-born-out-of-conflict
-IMPORTANT: This repository contains random thoughts I have, as the name suggests. I will try to be as raw yet as orderly as I can. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
+IMPORTANT: This repository contains random thoughts I have, as the name suggests. I will try to be as raw yet as orderly as I can. Although how I approach this is that some random thought comes, I remember the details as they're fresh, I pull out the phone to note it, then I relive the thoughts and expand on them. This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 "Sometimes I feel like I do not understand myself, sometimes I feel that I do. I am often in much conflict, most of the times I can not point out a single ingredient contributing to the conflict. It is fine, though."
 
